@@ -5,8 +5,10 @@
 }
 
 body {
-  background-color: lightgray;
+
+  background-image: url(img/jamesbond.jpg);
   font-family: Verdana, Geneva, Tahoma, sans-serif;
+  
 }
 
 .main {
@@ -31,6 +33,7 @@ body {
   border-radius: 0.5em;
   width: 30vw;
   height: auto;
+
 }
 
 .btn {
@@ -50,4 +53,27 @@ body {
   padding: 0.5em;
   width: 100%;
   height: 50px;
+}
+
+.navbar {
+  background-color: #81F7D8;
+}
+
+.quem-somos{
+  background-color: #999999;
+  color: white;
+}
+
+.margin{   
+  padding-bottom: 50px;    
+  padding-top: 10px;
+}
+
+.serviços{
+  background-color: #58FAF4;
+}
+
+.bg-footer{
+  background-color: black;
+  color: white;
 }
